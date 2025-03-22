@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/Carla-DEVP/Carla-DEVP/blob/main/hearttech.gif" width="600" />
+  <img src="https://github.com/Carla-DEVP/Carla-DEVP/blob/main/hearttech.gif" width="900" />
 </p>
 
 
