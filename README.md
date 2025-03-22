@@ -11,8 +11,8 @@ Sou movida por desafios, aprendizado contínuo e paixão por inovação. Acredit
 
 💻 Seja bem-vindo(a) ao meu GitHub e fique à vontade para conhecer meus trabalhos!.</p>&nbsp;
 
-
-![](https://github.com/Carla-DEVP/Carla-DEVP/blob/main/setup.jpeg)
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/Carla-DEVP/Carla-DEVP/blob/main/setup.jpeg"/>
+&nbsp;&nbsp;&nbsp;
 
 
 ## My Skills
