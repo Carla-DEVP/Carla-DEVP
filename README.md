@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:200px; object-fit: contain" width=50% src="https://github.com/Carla-DEVP/Carla-DEVP/blob/main/tecladoa.gif"/>
+<img align="center" style="margin-bottom:200px; object-fit: contain" width=100% src="https://github.com/Carla-DEVP/Carla-DEVP/blob/main/tecladoa.gif"/>
 &nbsp;&nbsp;&nbsp;
 
 <p align="left">👋 Olá! Sou Carla Guimarães de Medeiros , gaúcha, morando em João Pessoa/PB. Com formação em Gestão Comercial e atualmente cursando o 3º semestre de Análise e Desenvolvimento de Sistemas , trago mais de 20 anos de experiência em gestão, projetos e análise de dados , agora aplicados ao universo da tecnologia.
