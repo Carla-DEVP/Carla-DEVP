@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:75px; object-fit: contain" width=75% src="https://github.com/Carla-DEVP/Carla-DEVP/blob/main/tecladoa.gif"/>
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/Carla-DEVP/Carla-DEVP/blob/main/tecladoa.gif"/>
 &nbsp;&nbsp;&nbsp;
 
 <p align="left">👋 Olá! Sou Carla Guimarães de Medeiros , gaúcha, morando em João Pessoa/PB. Com formação em Gestão Comercial e atualmente cursando o 3º semestre de Análise e Desenvolvimento de Sistemas , trago mais de 20 anos de experiência em gestão, projetos e análise de dados , agora aplicados ao universo da tecnologia.
@@ -59,6 +59,7 @@ Sou movida por desafios, aprendizado contínuo e paixão por inovação. Acredit
 ![Miro](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)&nbsp;
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
 &nbsp;
 &nbsp;
