@@ -17,6 +17,7 @@ Sou movida por desafios, aprendizado contínuo e paixão por inovação. Acredit
         style="width: 50%; height: auto; object-fit: contain;" 
         alt="Setup"
     />
+</figure>
 
 ## My Skills
 
