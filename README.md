@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="hearttech.mp4" />
+<img align="center" style="margin-bottom:100px; object-fit:contain;" width="100%" src="hearttech.gif" />
 &nbsp;&nbsp;&nbsp;
 
 
