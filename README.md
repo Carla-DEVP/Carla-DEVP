@@ -13,7 +13,7 @@ Sou movida por desafios, aprendizado contínuo e paixão por inovação. Acredit
 
 <img 
     src="https://github.com/Carla-DEVP/Carla-DEVP/blob/main/setup.jpeg" 
-    style="width: 50%; height: auto; margin-bottom: 100px; object-fit: contain; display: block; margin-left: auto; margin-right: auto;" 
+    style="width: 50%; height: auto; margin-bottom: 50px; object-fit: contain; display: block; margin-left: auto; margin-right: auto;" 
     alt="Setup"
 />
 
