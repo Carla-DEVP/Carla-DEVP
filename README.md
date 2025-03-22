@@ -1,9 +1,9 @@
 
-<img align="right" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/kyronsatt/kyronsatt/assets/97697928/2c964a53-346e-4bab-b7ff-67ca000100d4" />
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/kyronsatt/kyronsatt/assets/97697928/2c964a53-346e-4bab-b7ff-67ca000100d4" />
 &nbsp;&nbsp;&nbsp;
 
 
-<p align="center">👋 Olá! Sou Carla Guimarães de Medeiros , gaúcha, morando em João Pessoa/PB. Com formação em Gestão Comercial e atualmente cursando o 3º semestre de Análise e Desenvolvimento de Sistemas , trago mais de 20 anos de experiência em gestão, projetos e análise de dados , agora aplicados ao universo da tecnologia.
+<p align="right">👋 Olá! Sou Carla Guimarães de Medeiros , gaúcha, morando em João Pessoa/PB. Com formação em Gestão Comercial e atualmente cursando o 3º semestre de Análise e Desenvolvimento de Sistemas , trago mais de 20 anos de experiência em gestão, projetos e análise de dados , agora aplicados ao universo da tecnologia.
 
 Tenho conhecimentos em Java, JavaScript, Python, C, React, HTML, CSS, Git/GitHub e metodologias ágeis , além de vivência prática em iniciação científica (ENTEC) , desenvolvendo soluções e resolvendo problemas reais.
 
