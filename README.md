@@ -3,7 +3,13 @@
 &nbsp;&nbsp;&nbsp;
 
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> Software engineer passionate about solving complex problems through technology. I like to balance my career between technical and managerial skills, so I gained experience leading teams, coordinating projects, analyzing and continually improving software, integrating all of this with the fundamentals of agile development.</p>&nbsp;
+<p align="center">👋 Olá! Sou Carla Guimarães de Medeiros , gaúcha, morando em João Pessoa/PB. Com formação em Gestão Comercial e atualmente cursando o 3º semestre de Análise e Desenvolvimento de Sistemas , trago mais de 20 anos de experiência em gestão, projetos e análise de dados , agora aplicados ao universo da tecnologia.
+
+Tenho conhecimentos em Java, JavaScript, Python, C, React, HTML, CSS, Git/GitHub e metodologias ágeis , além de vivência prática em iniciação científica (ENTEC) , desenvolvendo soluções e resolvendo problemas reais.
+
+Sou movida por desafios, aprendizado contínuo e paixão por inovação. Acredito que unir visão estratégica e habilidades técnicas pode gerar impacto real – e é isso que buscamos entregar em cada projeto.
+
+💻 Seja bem-vindo(a) ao meu GitHub e fique à vontade para conhecer meus trabalhos!.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
