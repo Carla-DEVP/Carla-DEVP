@@ -12,7 +12,7 @@ Sou movida por desafios, aprendizado contínuo e paixão por inovação. Acredit
 💻 Seja bem-vindo(a) ao meu GitHub e fique à vontade para conhecer meus trabalhos!.</p>&nbsp;
 
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+![](https://github.com/Carla-DEVP/Carla-DEVP/blob/main/setup.jpeg)
 
 
 ## My Skills
