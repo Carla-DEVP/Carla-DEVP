@@ -20,7 +20,7 @@ Sou movida por desafios, aprendizado contínuo e paixão por inovação. Acredit
   />
   <img 
     src="https://github.com/Carla-DEVP/Carla-DEVP/blob/main/music.jpg?raw=true" 
-    style="width: 21,5%; display: inline-block; object-fit: contain;" 
+    style="width: 22%; display: inline-block; object-fit: contain;" 
     alt="Music"
   />
 </div>
