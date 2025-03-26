@@ -2,16 +2,16 @@
 
 <div style="text-align: center; margin-bottom: 100px;">
     <img style="object-fit: contain; width: 50%; height: auto;" 
-         src="https://github.com/Carla-DEVP/Carla-DEVP/blob/main/tecladoa.gif "min-width="400px" max-width="500px" width="500px" align="right" alt="em cada projeto.">
+         src="https://github.com/Carla-DEVP/Carla-DEVP/blob/main/tecladoa.gif "min-width="400px" max-width="500px" width="500px" align="right">
 </div>
 
 <p align="left"> Sou Carla Guimarães de Medeiros , gaúcha, morando em João Pessoa/PB. Com formação em Gestão Comercial e atualmente cursando o 3º semestre de Análise e Desenvolvimento de Sistemas , trago mais de 20 anos de experiência em gestão, projetos e análise de dados , agora aplicados ao universo da tecnologia.
 
 Tenho conhecimentos em Java, JavaScript, Python, C, React, HTML, CSS, Git/GitHub e metodologias ágeis , além de vivência prática em iniciação científica (ENTEC) , desenvolvendo soluções e resolvendo problemas reais.
 
-Sou movida por desafios, aprendizado contínuo e paixão por inovação. Acredito que unir visão estratégica e habilidades técnicas pode gerar impacto real – e é isso que buscamos entregar em cada projeto.
+Sou movida por desafios, aprendizado contínuo e paixão por inovação. Acredito que unir visão estratégica e habilidades técnicas pode gerar impacto real – e é isso que buscamos entregar em cada projeto.</p>
 
-💻 Seja bem-vindo(a) ao meu GitHub e fique à vontade para conhecer meus trabalhos!.</p>&nbsp;
+<p align="center">💻 Seja bem-vindo(a) ao meu GitHub e fique à vontade para conhecer meus trabalhos!</p>&nbsp;
 ## Contacts:
 
 <div> 
