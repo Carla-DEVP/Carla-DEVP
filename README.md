@@ -55,15 +55,15 @@ Sou movida por desafios, aprendizado contínuo e paixão por inovação. Acredit
 
 #### Studying in this moment: CIÊNCIAS DE DADOS E IA GENERATIVA COM PYTHON
 
-<p "left">📊 Análise de Dados: Pandas, NumPy, Scipy, Matplotlib – manipulação, visualização e estatísticas.</p>&nbsp;
-<p "left">📥 Coleta de Dados: BeautifulSoup4, Scrapy, Requests – extração de dados de redes sociais e sites.</p>&nbsp;
-<p "left">🗄️ Bancos de Dados: MySQL, PostgreSQL, SQLite (relacionais); ElasticSearch, MongoDB (NoSQL).</p>&nbsp;
-<p "left">🤖 Machine Learning: Scikit-learn – classificação, regressão e clustering.</p>&nbsp;
-<p "left">📝 Processamento de Texto (PLN): NLTK – análise e limpeza de dados textuais.</p>&nbsp;
-<p "left">🎭 Visão Computacional: OpenCV, DLIB – reconhecimento facial e padrões.</p>&nbsp;
-<p "left">🧠 IA e Deep Learning: TensorFlow, Keras, PyTorch – redes neurais e aprendizado profundo.</p>&nbsp;
-<p "left">🌐 Desenvolvimento e Deploy: Flask, Django, Streamlit – criação e publicação de modelos.</p>&nbsp;
-<p "left">🎯 Sistemas de Recomendação: Algoritmos tipo Netflix – análise de preferências.</p>&nbsp;
+<p "left">📊 Análise de Dados: Pandas, NumPy, Scipy, Matplotlib – manipulação, visualização e estatísticas.</p>
+<p "left">📥 Coleta de Dados: BeautifulSoup4, Scrapy, Requests – extração de dados de redes sociais e sites.</p>
+<p "left">🗄️ Bancos de Dados: MySQL, PostgreSQL, SQLite (relacionais); ElasticSearch, MongoDB (NoSQL).</p>
+<p "left">🤖 Machine Learning: Scikit-learn – classificação, regressão e clustering.</p>
+<p "left">📝 Processamento de Texto (PLN): NLTK – análise e limpeza de dados textuais.</p>
+<p "left">🎭 Visão Computacional: OpenCV, DLIB – reconhecimento facial e padrões.</p>
+<p "left">🧠 IA e Deep Learning: TensorFlow, Keras, PyTorch – redes neurais e aprendizado profundo.</p>
+<p "left">🌐 Desenvolvimento e Deploy: Flask, Django, Streamlit – criação e publicação de modelos.</p>
+<p "left">🎯 Sistemas de Recomendação: Algoritmos tipo Netflix – análise de preferências.</p>
 
 
 
