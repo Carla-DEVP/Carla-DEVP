@@ -53,13 +53,20 @@ Sou movida por desafios, aprendizado contínuo e paixão por inovação. Acredit
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Adobe](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)&nbsp;
 
-#### Studying in this moment:
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
+#### Studying in this moment: CIÊNCIAS DE DADOS E IA GENERATIVA COM PYTHON
 
-#### Databases:
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+<p align="center">📊 Análise de Dados: Pandas, NumPy, Scipy, Matplotlib – manipulação, visualização e estatísticas.
+📥 Coleta de Dados: BeautifulSoup4, Scrapy, Requests – extração de dados de redes sociais e sites.
+🗄️ Bancos de Dados: MySQL, PostgreSQL, SQLite (relacionais); ElasticSearch, MongoDB (NoSQL).
+🤖 Machine Learning: Scikit-learn – classificação, regressão e clustering.
+📝 Processamento de Texto (PLN): NLTK – análise e limpeza de dados textuais.
+🎭 Visão Computacional: OpenCV, DLIB – reconhecimento facial e padrões.
+🧠 IA e Deep Learning: TensorFlow, Keras, PyTorch – redes neurais e aprendizado profundo.
+🌐 Desenvolvimento e Deploy: Flask, Django, Streamlit – criação e publicação de modelos.
+🎯 Sistemas de Recomendação: Algoritmos tipo Netflix – análise de preferências.</p>&nbsp;
+
+
+
 
 &nbsp;
 &nbsp;
