@@ -9,7 +9,7 @@
 
 Tenho conhecimentos em Java, JavaScript, Python, C, React, HTML, CSS, Git/GitHub e metodologias ágeis , além de vivência prática em iniciação científica (ENTEC) , desenvolvendo soluções e resolvendo problemas reais.
 
-Sou movida por desafios, aprendizado contínuo e paixão por inovação. Acredito que unir visão estratégica e habilidades técnicas pode gerar impacto real – e é isso que busco entregar em cada</p> <p align="left">projeto.</p>
+Sou movida por desafios, aprendizado contínuo e paixão por inovação. Acredito que unir visão estratégica e habilidades técnicas pode gerar impacto real – e é isso que busco entregar em cada projeto.</p>
 
 <p align="center">💻 Seja bem-vindo(a) ao meu GitHub e fique à vontade para conhecer meus trabalhos!</p>&nbsp;
 ## Contacts:
