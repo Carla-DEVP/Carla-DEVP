@@ -1,7 +1,19 @@
 # Olá 👋
 
-<img style="display: block; margin: 0 auto 100px auto; object-fit: contain; width: 200px; height: auto;" 
-     src="https://github.com/Carla-DEVP/Carla-DEVP/blob/main/tecladoa.gif"/>&nbsp;&nbsp;&nbsp;
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Imagem Centralizada</title>
+</head>
+<body>
+    <div style="text-align: center; margin-bottom: 100px;">
+        <img style="object-fit: contain; width: 200px; height: auto;" 
+             src="https://github.com/Carla-DEVP/Carla-DEVP/blob/main/tecladoa.gif"/>
+    </div>
+</body>
+</html>
 
 <p align="left"> Sou Carla Guimarães de Medeiros , gaúcha, morando em João Pessoa/PB. Com formação em Gestão Comercial e atualmente cursando o 3º semestre de Análise e Desenvolvimento de Sistemas , trago mais de 20 anos de experiência em gestão, projetos e análise de dados , agora aplicados ao universo da tecnologia.
 
