@@ -53,7 +53,7 @@ Sou movida por desafios, aprendizado contínuo e paixão por inovação. Acredit
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Adobe](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)&nbsp;
 
-#### Studying in this moment: CIÊNCIAS DE DADOS E IA GENERATIVA COM PYTHON
+## Studying in this moment: CIÊNCIAS DE DADOS E IA GENERATIVA COM PYTHON
 
 <p "left">📊 Análise de Dados: Pandas, NumPy, Scipy, Matplotlib – manipulação, visualização e estatísticas.
 <p "left">📥 Coleta de Dados: BeautifulSoup4, Scrapy, Requests – extração de dados de redes sociais e sites.
