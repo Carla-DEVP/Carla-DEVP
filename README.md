@@ -1,4 +1,9 @@
-# Olá 👋
+# Olá 👋 <div> 
+<a href="https://www.instagram.com/chayote_k/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href = "mailto:carlaguimaraesdemedeiros@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/carlaguimaraesdemedeiros/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+</div>&nbsp;&nbsp;
 
 <div style="text-align: center; margin-bottom: 100px;">
     <img style="object-fit: contain; width: 50%; height: auto;" 
